@@ -17,14 +17,14 @@ Matplotlib, Seaborn (for data visualization)
 
 Dataset:
 The dataset includes the following features:
-Gender
-Age
-Hypertension
-Heart Disease
-Smoking History
-BMI
-HbA1c Level
-Blood Glucose Level
+Gender,
+Age,
+Hypertension,
+Heart Disease,
+Smoking History,
+BMI,
+HbA1c Level,
+Blood Glucose Level,
 
 How to Use:
 Provide input data in the format:Gender, Age, Hypertension (0 or 1), Heart Disease (0 or 1), Smoking History, BMI, HbA1c Level, Blood Glucose Level
